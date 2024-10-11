@@ -1,0 +1,11 @@
+name: test_image_helper
+description: Makes it easier to provide mocked responses for Image.network widgets in Flutter widget tests.
+version: 1.0.0
+homepage: https://github.com/Ajitcool008/test_image_helper
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  mockito: ^5.4.4

@@ -1,0 +1,17 @@
+name: example
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test_image_helper:
+    path: ../
